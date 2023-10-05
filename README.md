@@ -28,3 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## References:
 https://youtu.be/I6OBjvF41ZY?si=o1tFgR9RLv7JveOF
+CSS styles: https://getcssscan.com/css-box-shadow-examples
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
